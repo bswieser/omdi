@@ -15,9 +15,7 @@
     <option name="USER" value="" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4e5fea2-7d1f-45d5-94d6-e5dc32236298" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="a4e5fea2-7d1f-45d5-94d6-e5dc32236298" name="Default" comment="" />
     <ignored path="anneal.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -141,20 +139,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AnnealModel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/anneal/AnnealModel.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11825">
-              <caret line="513" column="60" selection-start-line="513" selection-start-column="60" selection-end-line="513" selection-end-column="60" />
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="AnnealModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/anneal/AnnealModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            <state relative-caret-position="1020">
+              <caret line="491" column="20" lean-forward="true" selection-start-line="491" selection-start-column="18" selection-end-line="491" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -194,7 +192,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HierarchyBrowserManager">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -206,6 +204,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/anneal/AnnealModel.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/../.gitignore" />
       </list>
     </option>
   </component>
@@ -232,7 +231,7 @@
   <component name="PerforceDirect.Settings">
     <option name="useNativeApi" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1924" />
@@ -315,9 +314,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -334,6 +330,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,7 +346,7 @@
     <property name="RunManagerConfig.showSettingsBeforeRunnig" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/anneal.ipr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.gitignore" />
     <property name="options.lastSelected" value="com.intellij.compiler.options.JavaCompilersTab" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -355,6 +354,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -437,11 +437,12 @@
       <updated>1455158752852</updated>
       <workItem from="1455158755051" duration="1252000" />
       <workItem from="1550722837046" duration="620000" />
+      <workItem from="1550728879484" duration="459000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1872000" />
+    <option name="totallyTimeSpent" value="2331000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -471,42 +472,42 @@
       <window_info anchor="bottom" id="TODO" order="7" weight="0.3291815" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32897604" />
       <window_info id="Palette&#9;" order="2" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32570806" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32570806" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info id="Capture Tool" />
+      <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.66335225" visible="true" weight="0.2607296" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.66335225" visible="true" weight="0.26341203" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.66014236" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="right" id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="right" id="File View" order="3" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="8" />
-      <window_info anchor="bottom" id="CVS" order="8" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Changes" order="8" />
-      <window_info anchor="bottom" id="Dataflow to this" order="8" />
-      <window_info anchor="bottom" id="Web Preview" order="8" weight="0.3291815" />
-      <window_info anchor="bottom" id="IDEtalk Messages" order="7" />
-      <window_info anchor="right" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="EJB" order="3" weight="0.25" />
-      <window_info anchor="right" id="Module Dependencies" order="3" />
-      <window_info anchor="bottom" id="Dependency Viewer" order="8" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.3985765" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="8" />
+      <window_info anchor="bottom" id="CVS" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Dataflow to this" order="8" />
       <window_info anchor="right" id="IDEtalk" order="3" />
+      <window_info anchor="right" id="Module Dependencies" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Web Preview" order="8" weight="0.3291815" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="8" />
       <window_info id="Web" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="EJB" order="3" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="IDEtalk Messages" order="7" />
+      <window_info anchor="right" id="File View" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,6 +608,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/anneal/AnnealModel.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12825">
+          <caret line="513" column="60" selection-start-line="513" selection-start-column="60" selection-end-line="513" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anneal/AnnealView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anneal/Application1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anneal/Frame1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="37" column="46" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/anneal/AnnealModel.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
@@ -652,15 +681,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/anneal/AnnealModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11825">
-          <caret line="513" column="60" selection-start-line="513" selection-start-column="60" selection-end-line="513" selection-end-column="60" />
+        <state relative-caret-position="1020">
+          <caret line="491" column="20" lean-forward="true" selection-start-line="491" selection-start-column="18" selection-end-line="491" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/../.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
