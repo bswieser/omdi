@@ -1,0 +1,34 @@
+Metrowerks RAD Data V 1
+BeginClasses
+    {9BE3D9E0-166E-11D1-B2D8-0060081C5489} "#base-object-class"
+    {24A693F8-14E5-11D2-B334-00600819ADE3} "Application1"
+    {5FA17216-8612-11D1-B2AD-006008A5C0A5} "Frame1"
+EndClasses
+BeginObject anneal.Frame1 "Frame1"
+    BeginProperties
+        menuBar = <none>
+        size = "350, 450"
+        resizable = True
+        background = white
+        enabled = True
+        layout = None
+        foreground = black
+        title = anneal.Frame1
+        location = "0, 0"
+        cursor = Default
+        font = Dialog-PLAIN-12
+    EndProperties
+    BeginInternalProperties
+        UseSwing 11 = 0
+        IsApplet 11 = 0
+    EndInternalProperties
+    BeginEventConnections
+        BeginEventConnection {796E35A1-9372-11D2-9A19-00104B70C619}
+            SourcePath = "\\\\anneal.Frame1"
+            SinkPath = "\\\\anneal.Frame1"
+            EventName = windowClosing
+            EventSetName = window
+            HandlerName = thisWindowClosing
+        EndEventConnection
+    EndEventConnections
+EndObject
