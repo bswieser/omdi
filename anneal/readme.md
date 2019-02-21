@@ -1,5 +1,5 @@
 
-A Java SWING program I wrote to demonstrated [Simulated Annealing](https://en.wikipedia.org/wiki/Simulated_annealing).
+A Java SWING program I wrote to demonstrate [Simulated Annealing](https://en.wikipedia.org/wiki/Simulated_annealing).
 
 I believe the UI was originally generated using [CodeWarrior](https://en.wikipedia.org/wiki/CodeWarrior).
 
